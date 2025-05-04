@@ -1,0 +1,26 @@
+[
+    {
+        "associatedAccount": "MDBSCE24001",
+        "password": "ali123",
+        "role": "customer",
+        "username": "Ali"
+    },
+    {
+        "associatedAccount": "default_account",
+        "password": "admin123",
+        "role": "admin",
+        "username": "admin"
+    },
+    {
+        "associatedAccount": "MDBSCE24004",
+        "password": "ali123",
+        "role": "customer",
+        "username": "ali"
+    },
+    {
+        "associatedAccount": "default_account",
+        "password": "zohaib123",
+        "role": "admin",
+        "username": "zohaib"
+    }
+]

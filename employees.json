@@ -1,0 +1,58 @@
+[
+    {
+        "accountNumber": "MDBSCE24001",
+        "designation": "cashier",
+        "employeeID": "madina100",
+        "name": "asad",
+        "salary": 15000.0
+    },
+    {
+        "accountNumber": "MDBSCE24001",
+        "designation": "cashier",
+        "employeeID": "madina100",
+        "name": "asad",
+        "salary": 15000.0
+    },
+    {
+        "accountNumber": "MDBSCE24001",
+        "designation": "cashier",
+        "employeeID": "madina100",
+        "name": "asad",
+        "salary": 15000.0
+    },
+    {
+        "accountNumber": "MDBSCE24001",
+        "designation": "cashier",
+        "employeeID": "madina100",
+        "name": "asad",
+        "salary": 15000.0
+    },
+    {
+        "accountNumber": "MDBSCE24001",
+        "designation": "cashier",
+        "employeeID": "madina100",
+        "name": "asad",
+        "salary": 15000.0
+    },
+    {
+        "accountNumber": "MDBSCE24001",
+        "designation": "cashier",
+        "employeeID": "madina100",
+        "name": "asad",
+        "salary": 15000.0
+    },
+    {
+        "accountNumber": "MDBSCE34001",
+        "designation": "cashier",
+        "employeeID": "madina101",
+        "name": "ali",
+        "salary": 2000.0
+    },
+    {
+        "accountNumber": "MDBSCE34002",
+        "designation": "manager",
+        "employeeID": "madina",
+        "name": "102",
+        "salary": 15000.0
+    }
+]

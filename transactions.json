@@ -1,0 +1,10 @@
+[
+    {
+        "amount": 1000.0,
+        "date": 1746369676,
+        "fromAccount": "Bank",
+        "status": "Completed",
+        "toAccount": "MDBSCE24001",
+        "transactionType": "Deposit"
+    }
+]
