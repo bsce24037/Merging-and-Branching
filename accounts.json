@@ -1,0 +1,38 @@
+[
+    {
+        "accountNumber": "MDBSCE24001",
+        "balance": 16000.0,
+        "customerInfo": {
+            "address": "lahore ",
+            "cnic": "3840107924611",
+            "dob": "12-01-2005",
+            "name": "Muhammad",
+            "openingDate": "2025-05-04 19:24:53"
+        },
+        "type": "Saving"
+    },
+    {
+        "accountNumber": "MDBSCE24002",
+        "balance": 1000.0,
+        "customerInfo": {
+            "address": "makkah boys hostel",
+            "cnic": "3840107924612",
+            "dob": "12-01-2004",
+            "name": "zohaib",
+            "openingDate": "2025-05-04 19:28:15"
+        },
+        "type": "Saving"
+    },
+    {
+        "accountNumber": "MDBSCE24004",
+        "balance": 0.0,
+        "customerInfo": {
+            "address": "lahore",
+            "cnic": "3840107924611",
+            "dob": "12-01-2001",
+            "name": "zohaib",
+            "openingDate": "2025-05-04 19:40:28"
+        },
+        "type": "Saving"
+    }
+]
